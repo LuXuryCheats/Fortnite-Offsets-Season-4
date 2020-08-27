@@ -2,7 +2,7 @@
 
 Offsets:
 
-//enjoy
+//enjoy lil toe#0080
 #include "../../Header Files/includes.h"
 namespace Offsets {
 	PVOID* uWorld = 0;
